@@ -15,18 +15,12 @@ Draw Logic: Recognizes when the board is full and no moves are left.
 Clean UI: Simple [Command Line / Graphical] interface.
 
 ## Getting Started
-### Prerequisites
-To run this project, you will need:
-
-[Language Name, e.g., Python 3.x / Node.js]
-
-[Any specific library, e.g., Pygame / React]
 
 ### Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone (https://github.com/Daniels-byte-oss/whatthedpgdoin/tree/main)
 Navigate to the project directory:
 
 Bash
